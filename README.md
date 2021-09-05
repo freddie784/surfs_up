@@ -15,6 +15,14 @@ Below are three key differences that were found between the month of June and De
 
 
 ## Summary
-The tables that will be referred to in this summary will be added at the bottom of this summary. Oahu has pretty consistent temperatures considering the two months that are on opposite seasons have means with a 5 degree difference. With a greater standard deviation in December compared to June there is a high probability that there is more rain in that month as well. That could be done in another Query that would look at the precipitation data for the months of June and December. Lastly, Water temperatures below 70 degrees Fahrenheit is considered too cold to swim in and looking at the quartile data almost 50 percent of the dates in December would be close to or below that threshold. A second query that could be done giving us more confidence and accuracy would be to get data from a station or stations that are closer to our planned store location.
+Below are the tables that are being referred to throughout the summary.
 
-***insertTables**
+***insertPics***
+
+ Oahu has pretty consistent temperatures considering the two months that are on opposite seasons have means with a 5 degree difference. With a greater standard deviation in December compared to June there is a high probability that there is more rain in that month as well. My theory is proven in another Query that looks at the precipitation data for the months of June and December.
+ 
+  ***add Pic***
+
+Lastly, Water temperatures below 70 degrees Fahrenheit is considered too cold to swim in and looking at the quartile data almost 50 percent of the dates in December would be close to or below that threshold. A second query that could be done giving us more confidence and accuracy would be to get data from a station or stations that are closer to our planned store location. Below are the temperature statistics from the station closest to the future store location and it is not looking like December will be a favorable month for business.
+
+***addPic***
